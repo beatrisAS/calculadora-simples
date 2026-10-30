@@ -109,7 +109,7 @@ python -m pytest teste.py
           Construa sua conta passo a passo
 
      /\_/\ 
-    ( o.o )  Olá! Eu sou o CalcCat!
+    ( o.o )  Olá! Eu sou o CalCat!
      > ^ <   Vamos montar uma conta juntos?
 
   ➜ Digite o 1º número: 1
@@ -128,7 +128,7 @@ python -m pytest teste.py
 
   ✔ RESULTADO FINAL  13
 
-  CalcCat analisou o seu resultado:
+  CalCat analisou o seu resultado:
   • Não é um número Par.
   • É um número Inteiro.
 ```
